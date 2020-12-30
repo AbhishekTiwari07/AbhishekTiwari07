@@ -21,7 +21,7 @@
 </div>
 
 <div><p>My profile overview: </p></div>
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=AbhishekTiwari07&show_icons=true&theme=radical)
 <br />
 <br />
 <br />
