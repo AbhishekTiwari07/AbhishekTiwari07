@@ -3,7 +3,7 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I am [Abhishek Tiwari](https://AbhishekTiwari07.github.io)
+### Hi there 👋 I am [Abhishek Tiwari](#)
 
 <a href="https://www.linkedin.com/in/abhishektiwari2024/">
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
