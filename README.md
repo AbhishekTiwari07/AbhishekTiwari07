@@ -43,7 +43,7 @@ Do visit my Medium page where I ocassioanlly publish about my experiences explor
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AbhishekTiwari07&repo=NodeJS_Projects)](https://github.com/AbhishekTiwari07/NodeJS_Projects)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AbhishekTiwari07&repo=NutriVeal)](https://github.com/AbhishekTiwari07/NutriVeal)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AbhishekTiwari07&repo=WeatherApp)](https://github.com/AbhishekTiwari07/Weather_App)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AbhishekTiwari07&repo=Weather_App)](https://github.com/AbhishekTiwari07/Weather_App)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AbhishekTiwari07&repo=LeetCode_Problems)](https://github.com/AbhishekTiwari07/LeetCode_Problems)
 
 <br />
