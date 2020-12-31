@@ -47,7 +47,4 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AbhishekTiwari07.AbhishekTiwari07)
 
-
-
-
-Credit: [ApurvShah007](https://github.com/ApurvShah007)
+<p>Updated on 31 Dec 2020</p>
