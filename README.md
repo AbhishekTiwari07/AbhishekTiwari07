@@ -29,7 +29,7 @@
 <br />
 <details>
 <summary>
-  Projects I am currently working on
+   Projects I am currently working on
 </summary>
 
 <br />
@@ -44,6 +44,10 @@
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 </details>
+
+<h4>Top Languages:</h4>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekTiwari07&hide=html)](https://github.com/AbhishekTiwari07/github-readme-stats)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AbhishekTiwari07.AbhishekTiwari07)
 
