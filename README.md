@@ -15,10 +15,12 @@
   </p>
 </div>
 
-<div><p>My profile overview: </p></div>
+
+#### My profile overview:
+<br>
 
 <div>
-  <img align="right" alt="GIF" src="https://giffiles.alphacoders.com/297/2970.gif" width="400" height="280" />
+  <img align="right" alt="GIF" src="https://giffiles.alphacoders.com/297/2970.gif" width="350" height="240" />
   
   - Currently, working on NodeJS<br><br>
   - Learning about ML algorithm <br><br>
@@ -26,6 +28,9 @@
   - Most of my projects are available on Github and GitLab<br><br>
   - Kaggle notebook at [My Kaggle](https://www.kaggle.com/abhishektiwari07)<br><br>
   
+  <br>
+  <br>
+  <br>
   <br>
 
 </div>
