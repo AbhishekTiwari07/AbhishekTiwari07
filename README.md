@@ -10,14 +10,30 @@
 <br />
 
 <div>
- <p>
+  <p>
 
-</p>
+  </p>
 </div>
 
 <div><p>My profile overview: </p></div>
 
+<div>
+  <img align="right" alt="GIF" src="https://giffiles.alphacoders.com/297/2970.gif" width="400" height="280" />
+  
+  - Currently, working on NodeJS<br><br>
+  - Learning about ML algorithm <br><br>
+  - Open source Enthusiast<br><br>
+  - Most of my projects are available on Github and GitLab<br><br>
+  - Kaggle notebook at [My Kaggle](https://www.kaggle.com/abhishektiwari07)<br><br>
+  
+  <br>
+
+</div>
+<div>
+
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=AbhishekTiwari07&show_icons=true&theme=radical)
+
+</div>
 
 <br />
 <br />
