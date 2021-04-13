@@ -26,7 +26,7 @@
   - Learning about ML algorithm <br><br>
   - Open source Enthusiast<br><br>
   - Most of my projects are available on Github and GitLab<br><br>
-  - Kaggle notebook at [My Kaggle](https://www.kaggle.com/abhishektiwari07)<br><br>
+  - Kaggle notebook at [My Kaggle](#)<br><br>
   
   <br>
   <br>
