@@ -23,7 +23,7 @@
   <img align="right" alt="GIF" src="https://giffiles.alphacoders.com/297/2970.gif" width="350" height="240" />
   
   - Currently, working on NodeJS<br><br>
-  - Learning about ML algorithm <br><br>
+  - Learning ML algorithm <br><br>
   - Open source Enthusiast<br><br>
   - Most of my projects are available on Github and GitLab<br><br>
   - Kaggle notebook at [My Kaggle](#)<br><br>
