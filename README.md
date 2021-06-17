@@ -52,8 +52,8 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AbhishekTiwari07&repo=NutriVeal_WebApp)](https://github.com/AbhishekTiwari07/NodeJS_Projects)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AbhishekTiwari07&repo=NutriVeal)](https://github.com/AbhishekTiwari07/NutriVeal)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AbhishekTiwari07&repo=Weather_App)](https://github.com/AbhishekTiwari07/Weather_App)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AbhishekTiwari07&repo=LeetCode_Problems)](https://github.com/AbhishekTiwari07/LeetCode_Problems)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AbhishekTiwari07&repo=Chat-App-with-Sentiment-Analysis)](https://github.com/AbhishekTiwari07/Chat-App-with-Sentiment-Analysis)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AbhishekTiwari07&repo=Image-Search)](https://github.com/AbhishekTiwari07/Image-Search)
 
 <br />
 
