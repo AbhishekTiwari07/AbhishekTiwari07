@@ -21,7 +21,7 @@
 <br>
 
 <div>
-  <img align="right" alt="GIF" alt="https://giffiles.alphacoders.com/297/2970.gif" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="350" height="240" />
+  <img align="right" alt="GIF" src="https://giffiles.alphacoders.com/297/2970.gif" alt="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="350" height="240" />
   
   - Currently, working on NodeJS<br><br>
   - Learning ML algorithm <br><br>
