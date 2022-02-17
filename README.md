@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/abhishektiwari2024/">
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://leetcode.com/codegeek07/">
+<a href="https://leetcode.com/JUZ0/">
   <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
